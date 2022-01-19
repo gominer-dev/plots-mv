@@ -1,4 +1,4 @@
-temps:
+source:
   - /mnt/data0
 ignore:
   - lost+found
