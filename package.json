@@ -1,0 +1,19 @@
+{
+  "name": "plots-mv",
+  "version": "0.0.1",
+  "main": "mv.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "standard": "^16.0.3"
+  },
+  "dependencies": {
+    "ansi-colors": "^4.1.1",
+    "check-disk-space": "^2.1.0",
+    "fs-extra": "^10.0.0",
+    "yaml": "^1.10.2"
+  }
+}
